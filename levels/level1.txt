@@ -1,0 +1,18 @@
+ppppp__eee
+pppp____ee
+pppe____ee
+eeee_____m
+eeeee____m
+eeee__mm__
+eee__mmm__
+eeeemmmmm_
+eepeemmmm_
+eeeeee____
+Fireman 3 3
+Fire 1 2
+Fire 1 3
+Fire 1 4
+Fire 1 5
+Fire 8 8
+Fire 9 0
+Bulldozer 5 4

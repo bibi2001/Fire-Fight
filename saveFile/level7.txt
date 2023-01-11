@@ -1,0 +1,3 @@
+Score: 69 Nickname: bibi
+Score: 20 Nickname: mariena
+Score: 2 Nickname: jarolina

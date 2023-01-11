@@ -1,0 +1,19 @@
+pppppppmmm
+pppppppmmm
+ppppppppmm
+pppppppmmm
+ppppppmmmm
+pppppppmmm
+ppppppmmmm
+ppppppppmm
+pppppppmmm
+pppppppmmm
+Fireman 9 5
+Fire 0 1
+Fire 1 2
+Fire 2 3
+Fire 3 4
+Fire 4 5
+Fire 0 9
+Fire 1 8
+Fire 7 9

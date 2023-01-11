@@ -1,0 +1,15 @@
+pppeeeeepm
+peeeeppm__
+eeeppmm__m
+eeeppm___m
+eemm____mm
+emm______m
+ppemmm__mm
+ppeemmmmmp
+pppeeeeepp
+ppeeeppppp
+Fireman 5 4
+Bulldozer 5 5
+Fire 1 2
+Fire 5 9
+Fire 1 3
